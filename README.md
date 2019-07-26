@@ -5,7 +5,7 @@
 
   ### Installing the module into a project
 
-  * Run `npm i @digifi-los/segment-loader` in your application
+  * Run `npm i @digifi-los/segmentloader` in your application
 
   ### Running the module locally
   
@@ -18,4 +18,4 @@
   
   ### Uninstalling the Module
 
-  Run `npm uninstall @digifi-los/segment-loader` in your application
+  Run `npm uninstall @digifi-los/segmentloader` in your application

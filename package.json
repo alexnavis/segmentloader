@@ -1,5 +1,5 @@
 {
-  "name": "@digifi-los/segment-loader",
+  "name": "@digifi-los/segmentloader",
   "version": "0.0.1",
   "description": "Dynamic segment generator for DigiFi",
   "main": "index.js",
@@ -11,7 +11,7 @@
   "author": "Cody Hahn <cody@digifi.io>",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/digifi-io/segment-loader.git"
+    "url": "git+ssh://git@github.com/digifi-io/segmentloader.git"
   },
   "analyze": true,
   "dependencies": {
