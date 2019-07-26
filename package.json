@@ -1,0 +1,27 @@
+{
+  "name": "@digifi-los/segment-loader",
+  "version": "0.0.1",
+  "description": "Dynamic segment generator for DigiFi",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec --recursive",
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "Cody Hahn <cody@digifi.io>",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/digifi-io/segment-loader.git"
+  },
+  "analyze": true,
+  "dependencies": {
+    "@digifi-los/comparison": "^0.0.2",
+    "chai-spies": "^1.0.0",
+    "numeral": "^2.0.6",
+    "promisie": "^1.6.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
