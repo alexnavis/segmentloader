@@ -1,6 +1,12 @@
   # DigiFi Segment Loader
   DigiFi's Core Segment Loader for its Loan Origination System
   
+  ## Overview
+  The Segment Loader module is used in DigiFi's open-source loan origination system ("LOS") and is required to create and run automated underwriting and verification strategies within the rules engine. 
+  
+  Please visit our [Documentation](https://docs.digifi.io/) for comprehensive information on installing and using the platform.
+
+
   ## Installation
 
   ### Installing the module into a project
@@ -19,3 +25,16 @@
   ### Uninstalling the Module
 
   Run `npm uninstall @digifi-los/segmentloader` in your application
+  
+  ## For More Information
+
+*   [DigiFi Website](https://www.digifi.io)
+*   [DigiFi Blog](https://digifi.io/blog/)
+*   [Installation Guide](https://docs.digifi.io/v3.0/docs/system-requirements)
+*   [Developer Guide](https://docs.digifi.io/v3.0/docs/decision-engine)
+*   [User Manual Guide](https://docs.digifi.io/v3.0/docs/overview-of-my-account)
+*   [API Reference](https://docs.digifi.io/v3.0/reference)
+
+## License
+
+[Apache License 2.0](LICENSE)
